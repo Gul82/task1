@@ -21,7 +21,7 @@ Du machst folgendes:
 - Füge die Pflanzen 'Eiche', 'Sonnenblume' und Löwenzahn der Liste hinzu
 - Committe Deine Änderungen mit der Message 'added plants'
 
-Dein Chefredakteur ist noch nicht zufrieden: Er möchte die neue Seite erst online stellen, wenn Du auch die Pflanzen mit Wikipedia-Artikeln verlinkt hast. Zuerst sollst Du aber eine wichtige Änderung an der Live-Version der Seite vornehmen: Die Überschrift _Tiere_ soll in _Haustiere_ geändert werden!
+Dein Chefredakteur ist noch nicht zufrieden: Er möchte die neue Seite erst online stellen, wenn Du auch die Pflanzen mit Wikipedia-Artikeln verlinkt hast. Zuerst sollst Du aber eine wichtige Änderung an der Live-Version der Seite vornehmen: Die Überschrift _Tiere_ soll in _gitq_ geändert werden!
 
 Du machst folgendes:
 
